@@ -19,7 +19,7 @@ if (age >= 65) {
 }
 
 
-var day = "Sunday";
+let day = "Sunday";
 
 switch (day) {
 
