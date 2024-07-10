@@ -19,3 +19,17 @@ function addNumbers(num1, num2) {
 
 addNumbers(10, 20); //with arguments
 addNumbers(30, 40); //with arguments
+
+var colors = ["red", "blue", "green", "yellow", "orange"];
+
+function displayColors() {
+
+    for (var i = 0; i < colors.length; i++) {
+
+        console.log(colors[i]);
+
+    }
+
+}
+
+displayColors(); //without arguments
