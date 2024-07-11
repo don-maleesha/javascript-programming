@@ -1,3 +1,4 @@
+// ex01: Building and calling functions
 function addnumbers() {
 
     var num1 = 10;
@@ -9,7 +10,7 @@ function addnumbers() {
 
 addnumbers(); //without arguments
 
-
+// ex02: Building and calling functions
 function addNumbers(num1, num2) {
 
     var sum = num1 + num2;
@@ -20,6 +21,7 @@ function addNumbers(num1, num2) {
 addNumbers(10, 20); //with arguments
 addNumbers(30, 40); //with arguments
 
+// ex03: Building and calling functions
 var colors = ["red", "blue", "green", "yellow", "orange"];
 
 function displayColors() {
@@ -32,4 +34,4 @@ function displayColors() {
 
 }
 
-displayColors(); //without arguments
+displayColors(); 
