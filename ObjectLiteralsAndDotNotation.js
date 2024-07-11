@@ -23,3 +23,11 @@ house.livingRoom = 1;
 console.log(house); // { bedrooms: 3, bathrooms: 2, kitchen: 1, livingRoom: 1 }
 
 console.log(house.bedrooms); // 3
+
+var car = {};
+
+car["make"] = "Toyota";
+car["model"] = "Camry";
+car["year"] = 2015;
+
+console.log(car); // { make: 'Toyota', model: 'Camry', year: 2015 }
