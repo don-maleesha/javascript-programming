@@ -7,4 +7,4 @@ var rounded = Math.ceil(0.0001); // 1
 console.log(rounded);
 
 
-// Round up to the nearest whole number
+// Round up to the nearest whole numberk
