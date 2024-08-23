@@ -28,6 +28,7 @@ celebrateStyler('birthday');
 function styleAndCelebrate(color, background, fontSize, text, reason) {
     consoleStyler(color, background, fontSize, text);
     celebrateStyler(reason);
+    celebrateStyler(reason);
 }
 
 // Corrected color codes with '#' prefix
