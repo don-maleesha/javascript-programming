@@ -19,3 +19,6 @@ this keyword is the future object object instance of the Train class
 var myFirstTrain = new Train('red', false);
 
 console.log(myFirstTrain);
+
+var mySecondTrain = new Train('blue', false);
+var myThirdTrain= new Train('blue', false);
